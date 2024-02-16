@@ -1,0 +1,19 @@
+#firebase
+/.firebaserc
+/firebase.json
+/.firebase/
+/app/initFirebase.jsx
+/.github/workflows/firebase-hosting-merge.yml
+/.github/workflows/firebase-hosting-pull-request.yml
+
+# local env files
+.env*.local
+# production
+/build
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
